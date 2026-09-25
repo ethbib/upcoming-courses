@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T04:13:28+00:00",
+  "updated": "2026-09-25T04:13:09+00:00",
   "courses": [
     {
       "date": "2026-09-25",
@@ -11,7 +11,7 @@
     },
     {
       "date": "2026-09-30",
-      "time": "",
+      "time": "17:00–18:30",
       "title": "EndNote – Reference management",
       "duration": "90 min",
       "online": false,
