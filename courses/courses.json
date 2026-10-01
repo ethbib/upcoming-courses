@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-29T04:13:36+00:00",
+  "updated": "2026-10-01T04:14:27+00:00",
   "courses": [
     {
-      "date": "2026-09-30",
-      "time": "17:00–18:30",
-      "title": "EndNote – Reference management",
-      "duration": "90 min",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15478o.html"
+      "date": "2026-10-14",
+      "time": "09:00–12:30",
+      "title": "Research data management – basics and how to apply them (Research Data Management 1/7)",
+      "duration": "3.5 hWorkshop",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15476o.html"
     }
   ]
 }
