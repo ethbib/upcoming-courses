@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T04:14:00+00:00",
+  "updated": "2026-10-03T04:15:26+00:00",
   "courses": [
     {
       "date": "2026-10-14",
@@ -11,10 +11,10 @@
     },
     {
       "date": "2026-10-15",
-      "time": "13:15–14:30",
+      "time": "",
       "title": "Stop procrastination – start writing (German)",
       "duration": "75 min",
-      "online": true,
+      "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15461o.html"
     }
   ]
