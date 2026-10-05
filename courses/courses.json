@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-04T05:43:11+00:00",
+  "updated": "2026-10-05T04:16:03+00:00",
   "courses": [
     {
       "date": "2026-10-14",
-      "time": "09:00–12:30",
+      "time": "",
       "title": "Research data management – basics and how to apply them (Research Data Management 1/7)",
       "duration": "3.5 hWorkshop",
-      "online": true,
+      "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15476o.html"
     },
     {
