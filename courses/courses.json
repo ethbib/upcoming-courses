@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-05T04:16:03+00:00",
+  "updated": "2026-10-06T04:14:46+00:00",
   "courses": [
     {
       "date": "2026-10-14",
-      "time": "",
+      "time": "09:00–12:30",
       "title": "Research data management – basics and how to apply them (Research Data Management 1/7)",
       "duration": "3.5 hWorkshop",
-      "online": false,
+      "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15476o.html"
     },
     {
@@ -16,6 +16,14 @@
       "duration": "75 min",
       "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15461o.html"
+    },
+    {
+      "date": "2026-10-19",
+      "time": "16:15–17:00",
+      "title": "Zotero – Reference management",
+      "duration": "45 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15516o.html"
     }
   ]
 }
