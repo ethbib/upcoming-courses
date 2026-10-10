@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T04:15:03+00:00",
+  "updated": "2026-10-10T04:13:29+00:00",
   "courses": [
     {
       "date": "2026-10-14",
-      "time": "09:00–12:30",
+      "time": "",
       "title": "Research data management – basics and how to apply them (Research Data Management 1/7)",
       "duration": "3.5 hWorkshop",
-      "online": true,
+      "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15476o.html"
     },
     {
@@ -40,6 +40,14 @@
       "duration": "3.5 hWorkshop",
       "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15482o.html"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "11:30–12:45",
+      "title": "PubMed: How to use it efficiently for your literature research (German)",
+      "duration": "75 min",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15490o.html"
     }
   ]
 }
