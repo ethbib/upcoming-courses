@@ -25,7 +25,7 @@
   .title { left: 263px; width: 960px; overflow: hidden; font-size: 32px; }
   .title.wrap { display: flex; align-items: center; white-space: normal; line-height: 1.15; }
   .title.wrap span { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
-  .dur   { left: 1238px; width: 160px; text-align: center; }
+  .dur   { left: 1238px; width: 160px; text-align: center; overflow: hidden; }
   .online{ left: 1545px; width: 120px; text-align: center; }
   .qr { position: absolute; left: 142px; top: 857px; width: 129px; height: 129px; }
   .empty { position: absolute; left: 166px; top: 440px; font-size: 30px; color: #bbb; }
@@ -86,15 +86,23 @@ function render(data) {
     row.style.top = (FIRST_ROW_TOP + i * ROW_HEIGHT) + "px";
     const title = el("title", ""), name = document.createElement("span");
     name.textContent = c.title; title.append(name);
-    row.append(el("date", swissDate(c.date)), title, el("dur", c.duration), el("online", c.online ? "yes" : "no"));
+    const dur = el("dur", shortDuration(c.duration));
+    row.append(el("date", swissDate(c.date)), title, dur, el("online", c.online ? "yes" : "no"));
     stage.append(row);
     // Name too long for one line: keep only the part before " - " (drops the subtitle)
     if (title.scrollWidth > title.clientWidth) name.textContent = shortTitle(c.title);
     // Still too long: wrap onto two lines instead of shrinking the text
     if (title.scrollWidth > title.clientWidth) title.classList.add("wrap");
+    // Duration is a whole sentence (e.g. a drop-in note) that doesn't fit its column: leave it empty
+    if (dur.scrollWidth > dur.clientWidth) dur.textContent = "";
   });
 }
 const shortTitle = t => t.split(/\s+[-–—]\s+/)[0];
+// Keep just the length when the duration starts with one: "3.5 hWorkshop" → "3.5 h", "3 hours …" → "3 h"
+const shortDuration = d => {
+  const m = /^\s*(\d+(?:[.,]\d+)?)\s*(min|h)/i.exec(d || "");
+  return m ? `${m[1]} ${m[2].toLowerCase()}` : (d || "");
+};
 
 // Titles are measured, so lay them out again once the web fonts have loaded
 document.fonts && document.fonts.addEventListener("loadingdone", () => lastData && render(lastData));
