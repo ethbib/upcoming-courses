@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-21T04:27:34+00:00",
+  "updated": "2026-10-23T04:26:56+00:00",
   "courses": [
-    {
-      "date": "2026-10-21",
-      "time": "09:00–12:30",
-      "title": "How to do research data management at ETH - planning, FAIR data, and requirements (Research Data Management 2/7)",
-      "duration": "3.5 hWorkshop",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15482o.html"
-    },
-    {
-      "date": "2026-10-23",
-      "time": "11:30–12:45",
-      "title": "PubMed: How to use it efficiently for your literature research (German)",
-      "duration": "75 min",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15490o.html"
-    },
     {
       "date": "2026-10-27",
       "time": "11:00–12:30",
@@ -48,6 +32,22 @@
       "duration": "75 min",
       "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15462o.html"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "",
+      "title": "Active research data management (Research Data Management 4/7)",
+      "duration": "3 hWorkshop",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15501o.html"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "15:15–15:30",
+      "title": "Find Scientific Literature directly through ChatGPT or Claude (Coffee Lecture)",
+      "duration": "15 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15802o.html"
     }
   ]
 }
