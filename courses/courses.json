@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-24T04:23:31+00:00",
+  "updated": "2026-10-25T09:00:25+00:00",
   "courses": [
     {
       "date": "2026-10-27",
-      "time": "",
+      "time": "11:00–12:30",
       "title": "Preventing plagiarism and citing correctly - also in times of AI",
       "duration": "90 min",
       "online": false,
@@ -11,10 +11,10 @@
     },
     {
       "date": "2026-10-28",
-      "time": "",
+      "time": "09:00–12:00",
       "title": "Reproducible scientific computing and data analysis (Research Data Management 3/7)",
       "duration": "3 hWorkshop",
-      "online": false,
+      "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15500o.html"
     },
     {
