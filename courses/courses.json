@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-28T10:25:04+00:00",
+  "updated": "2026-10-29T10:45:13+00:00",
   "courses": [
-    {
-      "date": "2026-10-28",
-      "time": "09:00–12:00",
-      "title": "Reproducible scientific computing and data analysis (Research Data Management 3/7)",
-      "duration": "3 hWorkshop",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15500o.html"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "12:00–15:30",
-      "title": "Master your Thesis - Discover essential tips and tools for your studies",
-      "duration": "We are here for you for 3 hours, but you can come when and as long as you want.",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15489o.html"
-    },
     {
       "date": "2026-11-02",
       "time": "16:15–17:30",
@@ -48,6 +32,30 @@
       "duration": "2h 30min",
       "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15519o.html"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "09:00–11:30",
+      "title": "Secure handling of confidential and strictly confidential research data (Research Data Management 5/7)",
+      "duration": "2.5 hWorkshop",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15502o.html"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "09:15–12:00",
+      "title": "Pitch your Research: Designing better Posters",
+      "duration": "2h 45min",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15494o.html"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "15:15–15:30",
+      "title": "Is this any good? Evaluating sources (Coffee Lecture)",
+      "duration": "15 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15803o.html"
     }
   ]
 }
