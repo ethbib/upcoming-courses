@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-04T11:55:16+00:00",
+  "updated": "2026-11-05T11:58:06+00:00",
   "courses": [
-    {
-      "date": "2026-11-04",
-      "time": "09:00–12:00",
-      "title": "Active research data management (Research Data Management 4/7)",
-      "duration": "3 hWorkshop",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15501o.html"
-    },
-    {
-      "date": "2026-11-04",
-      "time": "15:15–15:30",
-      "title": "Find Scientific Literature directly through ChatGPT or Claude (Coffee Lecture)",
-      "duration": "15 min",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15802o.html"
-    },
     {
       "date": "2026-11-10",
       "time": "09:00–11:30",
@@ -35,14 +19,6 @@
     },
     {
       "date": "2026-11-11",
-      "time": "09:15–12:00",
-      "title": "Pitch your Research: Designing better Posters",
-      "duration": "2h 45min",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15494o.html"
-    },
-    {
-      "date": "2026-11-11",
       "time": "15:15–15:30",
       "title": "Is this any good? Evaluating sources (Coffee Lecture)",
       "duration": "15 min",
@@ -56,6 +32,30 @@
       "duration": "3h",
       "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15567o.html"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "09:00–12:30",
+      "title": "Publishing Research Data (Research Data Management 6/7)",
+      "duration": "3.5 hWorkshop",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15503o.html"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "15:15–15:30",
+      "title": "Lost in Space? Easy and Direct Access to Geodata with GeoVITe (Coffee Lecture)",
+      "duration": "15 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15804o.html"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "15:15–18:00",
+      "title": "Mastering your Master’s Thesis",
+      "duration": "2.45 hWorkshop",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15736o.html"
     }
   ]
 }
