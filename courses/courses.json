@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:58:06+00:00",
+  "updated": "2026-11-06T11:54:16+00:00",
   "courses": [
     {
       "date": "2026-11-10",
@@ -56,6 +56,14 @@
       "duration": "2.45 hWorkshop",
       "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15736o.html"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "16:00–17:00",
+      "title": "GeoVITe - Exploring practices for research geodata",
+      "duration": "60 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15479o.html"
     }
   ]
 }
