@@ -1,18 +1,10 @@
 {
-  "updated": "2026-11-16T12:30:15+00:00",
+  "updated": "2026-11-17T12:51:12+00:00",
   "courses": [
-    {
-      "date": "2026-11-16",
-      "time": "09:00–12:00",
-      "title": "Mastering scientific writing with AI-based tools",
-      "duration": "3h",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15567o.html"
-    },
     {
       "date": "2026-11-18",
       "time": "09:00–12:30",
-      "title": "Publishing Research Data (Research Data Management 6/7)",
+      "title": "Publishing research data (Research Data Management 6/7)",
       "duration": "3.5 hWorkshop",
       "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15503o.html"
@@ -72,6 +64,14 @@
       "duration": "75 min",
       "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15463o.html"
+    },
+    {
+      "date": "2026-11-30",
+      "time": "09:00–12:00",
+      "title": "AI Safety for Researchers: What to do and not to do with a LLM",
+      "duration": "3h",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15521o.html"
     }
   ]
 }
