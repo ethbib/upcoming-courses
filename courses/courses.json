@@ -1,30 +1,6 @@
 {
-  "updated": "2026-11-18T12:44:40+00:00",
+  "updated": "2026-11-19T12:36:37+00:00",
   "courses": [
-    {
-      "date": "2026-11-18",
-      "time": "09:00–12:30",
-      "title": "Publishing research data (Research Data Management 6/7)",
-      "duration": "3.5 hWorkshop",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15503o.html"
-    },
-    {
-      "date": "2026-11-18",
-      "time": "15:15–15:30",
-      "title": "Lost in Space? Easy and Direct Access to Geodata with GeoVITe (Coffee Lecture)",
-      "duration": "15 min",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15804o.html"
-    },
-    {
-      "date": "2026-11-18",
-      "time": "15:15–18:00",
-      "title": "Mastering your Master’s Thesis",
-      "duration": "2.45 hWorkshop",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15736o.html"
-    },
     {
       "date": "2026-11-25",
       "time": "09:00–11:00",
@@ -43,19 +19,19 @@
     },
     {
       "date": "2026-11-26",
-      "time": "",
-      "title": "Stop procrastination – start writing (German)",
-      "duration": "75 min",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15463o.html"
-    },
-    {
-      "date": "2026-11-26",
       "time": "11:30–12:45",
       "title": "PubMed: How to use it efficiently for your literature research",
       "duration": "75 min",
       "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15491o.html"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "13:15–14:30",
+      "title": "Stop procrastination – start writing (German)",
+      "duration": "75 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15463o.html"
     },
     {
       "date": "2026-11-30",
@@ -72,6 +48,38 @@
       "duration": "3h",
       "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15568o.html"
+    },
+    {
+      "date": "2026-12-02",
+      "time": "11:00–12:30",
+      "title": "Preventing plagiarism and citing correctly - also in times of AI",
+      "duration": "90 min",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15515o.html"
+    },
+    {
+      "date": "2026-12-02",
+      "time": "13:15–16:00",
+      "title": "Pitch your Research: Building your Second Brain",
+      "duration": "2h 45min",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15493o.html"
+    },
+    {
+      "date": "2026-12-02",
+      "time": "15:15–15:30",
+      "title": "Publishing Open Source Software in the Research Collection (Coffee Lecture)",
+      "duration": "15 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15806o.html"
+    },
+    {
+      "date": "2026-12-02",
+      "time": "17:00–18:30",
+      "title": "Mendeley Reference Manager - Reference management (German)",
+      "duration": "90 min",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15492o.html"
     }
   ]
 }
