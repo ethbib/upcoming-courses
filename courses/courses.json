@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:38:11+00:00",
+  "updated": "2026-11-25T13:59:00+00:00",
   "courses": [
     {
       "date": "2026-11-25",
@@ -72,6 +72,30 @@
       "duration": "90 min",
       "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15492o.html"
+    },
+    {
+      "date": "2026-12-08",
+      "time": "09:00–12:00",
+      "title": "Critical AI Literacy: Where LLMs Fail, Mislead, and Deskill You",
+      "duration": "3h",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15545o.html"
+    },
+    {
+      "date": "2026-12-08",
+      "time": "12:30–13:00",
+      "title": "Leganto reading lists in a nutshell",
+      "duration": "30 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15481o.html"
+    },
+    {
+      "date": "2026-12-08",
+      "time": "16:15–17:00",
+      "title": "Zotero – Reference management",
+      "duration": "45 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15517o.html"
     }
   ]
 }
