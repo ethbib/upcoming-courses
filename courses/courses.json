@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-25T13:59:00+00:00",
+  "updated": "2026-11-26T13:38:15+00:00",
   "courses": [
-    {
-      "date": "2026-11-25",
-      "time": "09:00–11:00",
-      "title": "Citizen science: harnessing the power of citizen-generated data (Research Data Management 7/7)",
-      "duration": "2 hWorkshop",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15504o.html"
-    },
-    {
-      "date": "2026-11-25",
-      "time": "15:15–15:30",
-      "title": "Choose the right place to share your research data (Coffee Lecture)",
-      "duration": "15 min",
-      "online": true,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15805o.html"
-    },
     {
       "date": "2026-11-26",
       "time": "13:15–14:30",
@@ -96,6 +80,14 @@
       "duration": "45 min",
       "online": true,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15517o.html"
+    },
+    {
+      "date": "2026-12-09",
+      "time": "17:00–18:30",
+      "title": "Scientific illustrations – visualising research data (German)",
+      "duration": "90 min",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15477o.html"
     }
   ]
 }
