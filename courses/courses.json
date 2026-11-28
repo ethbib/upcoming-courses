@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T13:33:54+00:00",
+  "updated": "2026-11-28T12:46:59+00:00",
   "courses": [
     {
       "date": "2026-11-30",
@@ -19,19 +19,19 @@
     },
     {
       "date": "2026-12-02",
+      "time": "",
+      "title": "Pitch your Research: Building your Second Brain",
+      "duration": "2h 45min",
+      "online": false,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15493o.html"
+    },
+    {
+      "date": "2026-12-02",
       "time": "11:00–12:30",
       "title": "Preventing plagiarism and citing correctly - also in times of AI",
       "duration": "90 min",
       "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15515o.html"
-    },
-    {
-      "date": "2026-12-02",
-      "time": "13:15–16:00",
-      "title": "Pitch your Research: Building your Second Brain",
-      "duration": "2h 45min",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15493o.html"
     },
     {
       "date": "2026-12-02",
@@ -51,19 +51,19 @@
     },
     {
       "date": "2026-12-08",
-      "time": "",
-      "title": "Leganto reading lists in a nutshell",
-      "duration": "30 min",
-      "online": false,
-      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15481o.html"
-    },
-    {
-      "date": "2026-12-08",
       "time": "09:00–12:00",
       "title": "Critical AI Literacy: Where LLMs Fail, Mislead, and Deskill You",
       "duration": "3h",
       "online": false,
       "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15545o.html"
+    },
+    {
+      "date": "2026-12-08",
+      "time": "12:30–13:00",
+      "title": "Leganto reading lists in a nutshell",
+      "duration": "30 min",
+      "online": true,
+      "url": "https://library.ethz.ch/en/kurse-und-beratung/courses-and-workshops/details.15481o.html"
     },
     {
       "date": "2026-12-08",
